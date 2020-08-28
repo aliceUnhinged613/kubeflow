@@ -63,7 +63,7 @@
         "@polymer/paper-ripple": "^3.0.1",
         "@polymer/paper-tabs": "^3.1.0",
         "@polymer/paper-toast": "^3.0.1",
-        "@polymer/polymer": "^3.3.0",
+        "@polymer/polymer": "^3.4.1",
         "@types/dotenv": "^6.1.1",
         "@vaadin/vaadin-grid": "^5.4.9",
         "@webcomponents/webcomponentsjs": "^2.3.0",
