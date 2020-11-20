@@ -18,3 +18,5 @@ matplotlib
 google-cloud
 pandas-gbq
 google-api-python-client
+
+notebook>=6.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
