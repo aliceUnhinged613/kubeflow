@@ -18,3 +18,4 @@ matplotlib
 google-cloud
 pandas-gbq
 google-api-python-client
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
