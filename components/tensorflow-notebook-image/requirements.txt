@@ -18,3 +18,4 @@ matplotlib
 google-cloud
 pandas-gbq
 google-api-python-client
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
