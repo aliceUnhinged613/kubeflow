@@ -18,3 +18,4 @@ matplotlib
 google-cloud
 pandas-gbq
 google-api-python-client
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
