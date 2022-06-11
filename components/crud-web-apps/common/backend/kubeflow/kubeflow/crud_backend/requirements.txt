@@ -4,3 +4,4 @@ kubernetes==10.0.1
 requests==2.22.0
 urllib3==1.25.7
 Werkzeug==0.16.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
