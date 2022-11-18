@@ -1,3 +1,5 @@
 Flask_Cors==3.0.7
 Flask==1.0.2
 kubernetes==8.0.1
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
