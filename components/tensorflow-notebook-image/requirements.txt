@@ -18,3 +18,4 @@ matplotlib
 google-cloud
 pandas-gbq
 google-api-python-client
+tensorflow>=2.12.0 # not directly required, pinned by Snyk to avoid a vulnerability
