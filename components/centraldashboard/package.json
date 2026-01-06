@@ -39,7 +39,7 @@
     "dependencies": {
         "@babel/polyfill": "^7.6.0",
         "@google-cloud/monitoring": "^0.7.1",
-        "@kubernetes/client-node": "^0.8.2",
+        "@kubernetes/client-node": "^1.0.0",
         "@polymer/app-layout": "^3.1.0",
         "@polymer/app-route": "^3.0.0",
         "@polymer/iron-a11y-keys": "^3.0.1",
@@ -69,7 +69,7 @@
         "@webcomponents/webcomponentsjs": "^2.3.0",
         "chart.js": "^2.8.0",
         "chartjs-plugin-crosshair": "^1.1.4",
-        "express": "^4.17.1",
+        "express": "^4.22.0",
         "node-fetch": "^2.6.0",
         "web-animations-js": "^2.3.2"
     },
