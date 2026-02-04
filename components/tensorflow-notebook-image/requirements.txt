@@ -18,3 +18,5 @@ matplotlib
 google-cloud
 pandas-gbq
 google-api-python-client
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
